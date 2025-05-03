@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "GitHub.copilot",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+}
